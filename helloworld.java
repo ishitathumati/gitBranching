@@ -13,6 +13,7 @@ public class helloworld {
 		int c=a+b;
 
 		System.out.println(+a+ " + " +b+ " = " +c);
+		System.out.println("that's simple math!!");
 	}
 
 }
